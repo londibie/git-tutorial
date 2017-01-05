@@ -2,7 +2,7 @@
 Sample repo for git tutorial
 
 Here is my 2nd Paragraph
-[Here's a link to Google's Home Page](https://www.google.com)
+ [Here's a link to Google's Home Page](https://www.google.com)
 
 1. Do this first
 2. Do this 2nd
