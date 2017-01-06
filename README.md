@@ -12,5 +12,5 @@ Here is my 2nd Paragraph
 
 https://pixabay.com/en/cemetery-peace-marble-angel-1655378/
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=TkmTbSo8iSY>" target="_blank"><img src="http://img.youtube.com/vi/TkmTbSo8iSY.jpg" 
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=TkmTbSo8iSY>"><img src="http://img.youtube.com/vi/TkmTbSo8iSY.jpg" 
 alt="My Trip to Ireland" width="240" height="180" border="10" /></a>
